@@ -12,7 +12,7 @@ thisAddinTitle = 'Open Folders'
 thisAddinVersion = '0.4.0'
 thisAddinAuthor = 'Jerome Briot'
 thisAddinContact = 'jbtechlab@gmail.com'
-
+ 
 handlers = []
 iswindows = platform.system() == 'Windows'
 app = adsk.core.Application.cast(adsk.core.Application.get())
