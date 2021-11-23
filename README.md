@@ -6,6 +6,7 @@ Open folders in Windows Explorer or in MacOS Finder directly from the Fusion 360
 ![OpenFolders undocumented menu](./images/fusion-360-open-folders-03.png)
 
 ## Version history
+- 0.5.0 (23 November 2021) - Code Overhaul
 - 0.4.0 (29 April 2021) - Fix some bugs and add path to the Fusion 360 Python API folder
 - 0.3.0 (12 April 2021) - Fix a bug in "undocumentedControls" dict initialization
 - 0.2.0 (12 April 2021) - Fix a bug in "controls" dict initialization
@@ -140,8 +141,10 @@ Due to a bug with nested dropdowns in Fusion 360, I had to create a second menu 
 
 More info about the bug: [[API BUG] Cannot click menu items in nested dropdown](https://forums.autodesk.com/t5/fusion-360-api-and-scripts/api-bug-cannot-click-menu-items-in-nested-dropdown/m-p/9669144#M10876)
 
-## Acknowledgement
+## Acknowledgements
 I added the undocumented feature as sugggested by Makoto Tanaka ([kandennti](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/3787950)) on the [Fusion 360 API forum](https://forums.autodesk.com/t5/fusion-360-api-and-scripts/color-effect-for-head-up-display/m-p/10203555/highlight/true#M12997) :+1:.
+
+Code Rework done by user @ZXYNINE
 
 ## Licence
 
