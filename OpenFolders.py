@@ -6,6 +6,7 @@ import platform, subprocess
 import tempfile, json
 import os, re
 from copy import deepcopy
+
 thisAddinName = 'OpenFolders'
 thisAddinTitle = 'Open Folders'
 thisAddinVersion = '0.4.0'
