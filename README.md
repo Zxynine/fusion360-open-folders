@@ -144,7 +144,7 @@ More info about the bug: [[API BUG] Cannot click menu items in nested dropdown](
 ## Acknowledgements
 I added the undocumented feature as sugggested by Makoto Tanaka ([kandennti](https://forums.autodesk.com/t5/user/viewprofilepage/user-id/3787950)) on the [Fusion 360 API forum](https://forums.autodesk.com/t5/fusion-360-api-and-scripts/color-effect-for-head-up-display/m-p/10203555/highlight/true#M12997) :+1:.
 
-Code Rework done by user @ZXYNINE
+Code Rework done by user [ZXYNINE](https://github.com/Zxynine)
 
 ## Licence
 
